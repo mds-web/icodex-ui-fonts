@@ -5,7 +5,7 @@
 ---
 
 ## 📁 Struktur Folder
-
+```txt
 ├── css/
 │ ├── fontello.css
 │ ├── fontello-embedded.css
@@ -18,7 +18,7 @@
 ├── config.json
 ├── demo.html
 └── README.md
-
+```
 
 ---
 
@@ -27,4 +27,23 @@
 ### 1. Tambahkan file CSS ke dalam `<head>`
 
 ```html
-<link rel="stylesheet" href="css/fontello.css">
+<link rel="stylesheet" href="css/icodex-ui-fonts.css">
+
+<i class="icon-icodex-folder"></i>
+
+```
+---
+
+🎨 Daftar Ikon Tersedia
+Berikut adalah ikon-ikon yang tersedia di font ini:
+
+```css
+icon-icodex-file-plus-2   → 0xe800
+icon-icodex-inbox         → 0xe801
+icon-icodex-search-code   → 0xe802
+icon-icodex-folder-2      → 0xe803
+icon-icodex-git-branch    → 0xe804
+icon-icodex-folder        → 0xe805
+icon-icodex-home-2        → 0xe806
+```
+Lihat juga tampilan visualnya di file demo.html.
