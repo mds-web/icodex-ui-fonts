@@ -37,7 +37,7 @@
 🎨 Daftar Ikon Tersedia
 Berikut adalah ikon-ikon yang tersedia di font ini:
 
-```css
+```txt
 icon-icodex-file-plus-2   → 0xe800
 icon-icodex-inbox         → 0xe801
 icon-icodex-search-code   → 0xe802
@@ -47,3 +47,19 @@ icon-icodex-folder        → 0xe805
 icon-icodex-home-2        → 0xe806
 ```
 Lihat juga tampilan visualnya di file demo.html.
+
+💡 Contoh Penggunaan Lengkap
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Contoh Icon</title>
+    <link rel="stylesheet" href="css/fontello.css" />
+  </head>
+  <body>
+    <i class="icon-icodex-folder"></i> Folder
+    <i class="icon-icodex-search-code"></i> Cari
+  </body>
+</html>
+```
