@@ -63,3 +63,28 @@ Lihat juga tampilan visualnya di file demo.html.
   </body>
 </html>
 ```
+
+⚙️ Cara Modifikasi Ikon
+Untuk menambahkan atau mengganti ikon:
+
+Buka: https://fontello.com
+
+Klik tombol Import config.json
+
+Tambahkan ikon, ubah nama class jika perlu
+
+Klik Download webfont
+
+Gantikan isi folder /css, /font, dan config.json dengan versi baru
+
+📄 Lisensi
+File ini dibuat menggunakan Fontello.
+
+Karena file LICENSE.txt tidak disertakan, maka:
+
+- Semua ikon berasal dari font set yang tidak memerlukan lisensi tambahan
+
+- Font seperti Entypo, Font Awesome 4.7, Typicons biasanya berlisensi open-source
+
+ Ikon dikompilasi menggunakan proyek open-source [Fontello](https://fontello.com)
+
